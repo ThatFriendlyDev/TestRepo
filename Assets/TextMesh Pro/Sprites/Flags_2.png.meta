@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 230d7b1e9c64e4a26a63d5de0fa95064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7614268855035143565
+    second: Flags_2_0
+  - first:
+      213: 2144461775308209787
+    second: Flags_2_1
+  - first:
+      213: -5154564173431703083
+    second: Flags_2_2
+  - first:
+      213: 6446339577102499699
+    second: Flags_2_3
+  - first:
+      213: -6700084369125099347
+    second: Flags_2_4
+  - first:
+      213: -585422800410835819
+    second: Flags_2_5
+  - first:
+      213: 8502835458449000515
+    second: Flags_2_6
+  - first:
+      213: -4129878779793434885
+    second: Flags_2_7
+  - first:
+      213: 164861220037089545
+    second: Flags_2_8
+  - first:
+      213: 7452986514240105512
+    second: Flags_2_9
+  - first:
+      213: -4358780378980763883
+    second: Flags_2_10
+  - first:
+      213: -1900159197132432286
+    second: Flags_2_11
+  - first:
+      213: 6780826149279775088
+    second: Flags_2_12
+  - first:
+      213: -7679041334425867021
+    second: Flags_2_13
+  - first:
+      213: -2085971881559386599
+    second: Flags_2_14
+  - first:
+      213: -8266269960584526553
+    second: Flags_2_15
+  - first:
+      213: -8162920235623344458
+    second: Flags_2_16
+  - first:
+      213: 8165001162343037899
+    second: Flags_2_17
+  - first:
+      213: 7874951604164911852
+    second: Flags_2_18
+  - first:
+      213: 2620093098302328998
+    second: Flags_2_19
+  - first:
+      213: 871385080655671240
+    second: Flags_2_20
+  - first:
+      213: 7579667935576508404
+    second: Flags_2_21
+  - first:
+      213: -8448733826047293133
+    second: Flags_2_22
+  - first:
+      213: -4420465093515090438
+    second: Flags_2_23
+  - first:
+      213: 3925873119187048745
+    second: Flags_2_24
+  - first:
+      213: 8256824972069198752
+    second: Flags_2_25
+  - first:
+      213: 4635931292975014107
+    second: Flags_2_26
+  - first:
+      213: -2871287225165855560
+    second: Flags_2_27
+  - first:
+      213: 5678791166606833466
+    second: Flags_2_28
+  - first:
+      213: 5334811193508254703
+    second: Flags_2_29
+  - first:
+      213: 8308790362968342313
+    second: Flags_2_30
+  - first:
+      213: -672393726634081451
+    second: Flags_2_31
+  - first:
+      213: -86270475382290576
+    second: Flags_2_32
+  - first:
+      213: 5743283880912666698
+    second: Flags_2_33
+  - first:
+      213: 1315665355307517209
+    second: Flags_2_34
+  - first:
+      213: -5954301063350806136
+    second: Flags_2_35
+  - first:
+      213: 583375931123398393
+    second: Flags_2_36
+  - first:
+      213: 7151714061300294912
+    second: Flags_2_37
+  - first:
+      213: -4638205677956569245
+    second: Flags_2_38
+  - first:
+      213: 7713726623170701591
+    second: Flags_2_39
+  - first:
+      213: -3176921900603118660
+    second: Flags_2_40
+  - first:
+      213: -2065619591241869296
+    second: Flags_2_41
+  - first:
+      213: 2227670884757866009
+    second: Flags_2_42
+  - first:
+      213: -5973284993458183416
+    second: Flags_2_43
+  - first:
+      213: -7389045258137385341
+    second: Flags_2_44
+  - first:
+      213: -4235405182208531549
+    second: Flags_2_45
+  - first:
+      213: 467109044477777956
+    second: Flags_2_46
+  - first:
+      213: 5024262492334365965
+    second: Flags_2_47
+  - first:
+      213: -6971379563739329762
+    second: Flags_2_48
+  - first:
+      213: 2372544717384607174
+    second: Flags_2_49
+  - first:
+      213: 5780194475436309485
+    second: Flags_2_50
+  - first:
+      213: -7837061557845056489
+    second: Flags_2_51
+  - first:
+      213: -2270640678961419524
+    second: Flags_2_52
+  - first:
+      213: -4861523353475411890
+    second: Flags_2_53
+  - first:
+      213: 1786917321421366048
+    second: Flags_2_54
+  - first:
+      213: 6717752193413803471
+    second: Flags_2_55
+  - first:
+      213: 3484286200552445198
+    second: Flags_2_56
+  - first:
+      213: 4572725194490134288
+    second: Flags_2_57
+  - first:
+      213: -3709777003337410223
+    second: Flags_2_58
+  - first:
+      213: 1434635478488425001
+    second: Flags_2_59
+  - first:
+      213: 6746407591008827690
+    second: Flags_2_60
+  - first:
+      213: -3476967415298420110
+    second: Flags_2_61
+  - first:
+      213: -5289613788050499014
+    second: Flags_2_62
+  - first:
+      213: 7724536746765350054
+    second: Flags_2_63
+  - first:
+      213: 1889769898481732892
+    second: Flags_2_64
+  - first:
+      213: 533884565487839722
+    second: Flags_2_65
+  - first:
+      213: -5519001619030322179
+    second: Flags_2_66
+  - first:
+      213: 1516495265002467619
+    second: Flags_2_67
+  - first:
+      213: 1018861455106493206
+    second: Flags_2_68
+  - first:
+      213: 6984093024830305283
+    second: Flags_2_69
+  - first:
+      213: 6964292879957635255
+    second: Flags_2_70
+  - first:
+      213: -1626032704616347705
+    second: Flags_2_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flags_2_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 400
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5f4781dea45690800000000000000
+      internalID: -7614268855035143565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 400
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e36af6f98a2cd10800000000000000
+      internalID: 2144461775308209787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 400
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f5aeb13f4778b0800000000000000
+      internalID: -5154564173431703083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 212
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f7cb2f0bff57950800000000000000
+      internalID: 6446339577102499699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 212
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8b62dc3c48403a0800000000000000
+      internalID: -6700084369125099347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 212
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5940912901920e7f0800000000000000
+      internalID: -585422800410835819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 24
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c27cacc3200670800000000000000
+      internalID: 8502835458449000515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 24
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf61dfc7129bfa6c0800000000000000
+      internalID: -4129878779793434885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_2_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 24
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095c89f764b94200800000000000000
+      internalID: 164861220037089545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flags_2_3: 6446339577102499699
+      Flags_2_7: -4129878779793434885
+      Flags_2_2: -5154564173431703083
+      Flags_2_4: -6700084369125099347
+      Flags_2_8: 164861220037089545
+      Flags_2_6: 8502835458449000515
+      Flags_2_5: -585422800410835819
+      Flags_2_1: 2144461775308209787
+      Flags_2_0: -7614268855035143565
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
